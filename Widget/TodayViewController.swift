@@ -1,6 +1,6 @@
 //
 //  TodayViewController.swift
-//  ToDoListWidget
+//  JustDoItWidget
 //
 //  Created by Radu Ursache on 13/01/2020.
 //  Copyright © 2020 Radu Ursache. All rights reserved.

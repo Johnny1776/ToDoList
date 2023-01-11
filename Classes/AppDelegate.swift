@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ToDoList
+//  JustDoIt
 //
 //  Created by Radu Ursache on 20/02/2019.
 //  Copyright © 2019 Radu Ursache. All rights reserved.

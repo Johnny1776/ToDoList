@@ -1,6 +1,6 @@
 //
 //  ThemeViewController.swift
-//  ToDoList
+//  JustDoIt
 //
 //  Created by Radu Ursache on 16/01/2020.
 //  Copyright © 2020 Radu Ursache. All rights reserved.

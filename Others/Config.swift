@@ -1,6 +1,6 @@
 //
 //  Config.swift
-//  ToDoList
+//  JustDoIt
 //
 //  Created by Radu Ursache on 20/02/2019.
 //  Copyright © 2019 Radu Ursache. All rights reserved.
@@ -18,7 +18,7 @@ class Config: NSObject {
     }
     
     class General: NSObject {
-        static let appName = "ToDoList"
+        static let appName = "JustDoIt"
         
         static let addTaskMaxNumberOfLines: Int = 6
         static let dateFormatter = { () -> DateFormatter in
@@ -33,7 +33,7 @@ class Config: NSObject {
             return formatter
         }
         
-        static let contactEmail = "contact[email]randusoft.ro"
+        static let contactEmail = "contact[email]itch.studio"
 		static let toastOnScreenTime = 2.0 // seconds
         static let notificationDefaultDelayForNotifications = -30 // minutes
         

@@ -1,6 +1,6 @@
 //
 //  RealmManager.swift
-//  ToDoList
+//  JustDoIt
 //
 //  Created by Radu Ursache on 20/02/2019.
 //  Copyright © 2019 Radu Ursache. All rights reserved.
@@ -25,7 +25,7 @@ class RealmManager: NSObject {
     
 	private let realmVersion: UInt64 = 15
 	private var realmConfig: Realm.Configuration
-	private let realmPath = FileManager.default.containerURL(forSecurityApplicationGroupIdentifier: "group.ro.randusoft.RSToDoList")!.path + "/db.realm"
+	private let realmPath = FileManager.default.containerURL(forSecurityApplicationGroupIdentifier: "group.studio.itch.JustDoIt")!.path + "/db.realm"
 	
 	private var wcSession: WCSession! = nil
     

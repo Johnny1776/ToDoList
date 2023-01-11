@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>ToDoList</string>
+	<string>JustDoIt</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIcons</key>
@@ -126,7 +126,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>ToDoList app require access to your camera to be able to take pictures</string>
+	<string>JustDoIt app require access to your camera to be able to take pictures</string>
 	<key>UIApplicationShortcutItems</key>
 	<array>
 		<dict>
@@ -135,7 +135,7 @@
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>UIAPPLICATION_SHORTCUT_ITEM_TITLE_TOMORROW</string>
 			<key>UIApplicationShortcutItemType</key>
-			<string>ro.randusoft.RSToDoList.shortcuts.tomorrow</string>
+			<string>studio.itch.JustDoIt.shortcuts.tomorrow</string>
 		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemIconType</key>
@@ -143,7 +143,7 @@
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>UIAPPLICATION_SHORTCUT_ITEM_TITLE_TODAY</string>
 			<key>UIApplicationShortcutItemType</key>
-			<string>ro.randusoft.RSToDoList.shortcuts.today</string>
+			<string>studio.itch.JustDoIt.shortcuts.today</string>
 		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemIconType</key>
@@ -151,7 +151,7 @@
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>UIAPPLICATION_SHORTCUT_ITEM_TITLE_ALL_TASKS</string>
 			<key>UIApplicationShortcutItemType</key>
-			<string>ro.randusoft.RSToDoList.shortcuts.alltasks</string>
+			<string>studio.itch.JustDoIt.shortcuts.alltasks</string>
 		</dict>
 		<dict>
 			<key>UIApplicationShortcutItemIconType</key>
@@ -159,7 +159,7 @@
 			<key>UIApplicationShortcutItemTitle</key>
 			<string>UIAPPLICATION_SHORTCUT_ITEM_TITLE_NEW_TASK</string>
 			<key>UIApplicationShortcutItemType</key>
-			<string>ro.randusoft.RSToDoList.shortcuts.newTask</string>
+			<string>studio.itch.JustDoIt.shortcuts.newTask</string>
 		</dict>
 	</array>
 	<key>UIBackgroundModes</key>

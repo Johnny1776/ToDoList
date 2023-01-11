@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "17D18D3A221D56C4005C647B"
-               BuildableName = "ToDoList.app"
-               BlueprintName = "ToDoList"
-               ReferencedContainer = "container:ToDoList.xcodeproj">
+               BuildableName = "JustDoIt.app"
+               BlueprintName = "JustDoIt"
+               ReferencedContainer = "container:JustDoIt.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "17D18D3A221D56C4005C647B"
-            BuildableName = "ToDoList.app"
-            BlueprintName = "ToDoList"
-            ReferencedContainer = "container:ToDoList.xcodeproj">
+            BuildableName = "JustDoIt.app"
+            BlueprintName = "JustDoIt"
+            ReferencedContainer = "container:JustDoIt.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -54,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "17D18D3A221D56C4005C647B"
-            BuildableName = "ToDoList.app"
-            BlueprintName = "ToDoList"
-            ReferencedContainer = "container:ToDoList.xcodeproj">
+            BuildableName = "JustDoIt.app"
+            BlueprintName = "JustDoIt"
+            ReferencedContainer = "container:JustDoIt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "17D18D3A221D56C4005C647B"
-            BuildableName = "ToDoList.app"
-            BlueprintName = "ToDoList"
-            ReferencedContainer = "container:ToDoList.xcodeproj">
+            BuildableName = "JustDoIt.app"
+            BlueprintName = "JustDoIt"
+            ReferencedContainer = "container:JustDoIt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
